@@ -24,3 +24,5 @@ package-lock.json
 *.bak
 *.releaseBackup
 release.properties
+*.bak
+pom.xml.bak
