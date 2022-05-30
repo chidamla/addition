@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pesil.main</groupId>
 	<artifactId>addition</artifactId>
-	<version>1.2</version>
+	<version>1.2-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -12,7 +12,7 @@
 	</properties>
 	<scm>
 		<connection>
-			scm:git:https://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@github.com/chidamla/addition.git
+			scm:git:https://chidamla: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@github.com/chidamla/addition.git
 		</connection>
 		<url>https://github.com/chidamla/addition</url>
 		<tag>addition-1.2</tag>
@@ -32,7 +32,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>maths</finalName>
+		<finalName>addition</finalName>
 		<pluginManagement>
 			<!-- lock down plugins versions to avoid using Maven 
 				defaults (may be moved to parent pom) -->
