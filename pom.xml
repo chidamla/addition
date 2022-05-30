@@ -14,9 +14,6 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 
-	<scm>
-		<tag>maths-1.0</tag>
-	</scm>
 
 	<dependencies>
 		<dependency>
