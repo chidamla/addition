@@ -14,7 +14,7 @@
 	
 	<scm>
 		<connection>
-			scm:git:https://chidamla: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@github.com/chidamla/addition.git
+			scm:git:https://chidamla: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@github.com/chidamla/addition.git
 		</connection>
 		<url>https://github.com/chidamla/addition</url>
 		<tag>addition-2.3</tag>
