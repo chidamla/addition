@@ -10,7 +10,7 @@
 <body>
 
 <h1>
-    Available Brands
+    Sum
 </h1>
 
 <%
