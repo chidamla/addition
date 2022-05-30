@@ -18,7 +18,7 @@
 		<connection>
 			scm:git:https://chidamla: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@github.com/chidamla/maths.git
 		</connection>
-		<url>https://github.com/chidamla/maths</url>
+		<url>https://github.com/chidamla/addition</url>
 		<tag>maths-1.0</tag>
 	</scm>
 
