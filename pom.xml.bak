@@ -12,10 +12,10 @@
 	</properties>
 	<scm>
 		<connection>
-			scm:git:https://chidamla@github.com:chidamla/addition.git
+			scm:git:https://chidamla@github.com/chidamla/addition.git
 		</connection>
 		<developerConnection>
-		scm:git:https://chidamla@github.com:chidamla/addition.git
+			scm:git:https://chidamla@github.com/chidamla/addition.git
 		</developerConnection>
 		<url>https://github.com/chidamla/addition</url>
 		<tag>addition-2.3</tag>
