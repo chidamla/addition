@@ -5,13 +5,11 @@
 	<artifactId>addition</artifactId>
 	<version>2.3-SNAPSHOT</version>
 	<packaging>war</packaging>
-	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
-	
 	<scm>
 		<connection>
 			scm:git:https://chidamla:test@github.com/chidamla/addition.git
@@ -19,7 +17,6 @@
 		<url>https://github.com/chidamla/addition</url>
 		<tag>addition-2.3</tag>
 	</scm>
-	
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>
@@ -34,7 +31,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	
 	<build>
 		<finalName>maths</finalName>
 		<pluginManagement>
@@ -79,14 +75,14 @@
 						<releaseProfiles>release</releaseProfiles>
 					</configuration>
 				</plugin>
-				      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-scm-plugin</artifactId>
-        <version>1.13.0</version>
-        <configuration>
-          <connectionType>connection</connectionType>
-        </configuration>
-      </plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-scm-plugin</artifactId>
+					<version>1.13.0</version>
+					<configuration>
+						<connectionType>connection</connectionType>
+					</configuration>
+				</plugin>
 			</plugins>
 		</pluginManagement>
 	</build>
