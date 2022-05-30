@@ -12,7 +12,7 @@
 	</properties>
 	<scm>
 		<connection>
-			scm:git:https://github.com/chidamla/addition.git
+			scm:git:https://chidamla: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github.com/chidamla/addition.git
 		</connection>
 		<url>https://github.com/chidamla/addition</url>
 		<tag>addition-1.1</tag>
