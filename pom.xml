@@ -12,6 +12,14 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	
+	<scm>
+		<connection>
+			scm:git:https://chidamla:ghp_MgWm2ytvjMBGuEECb3PGj1uSbzsZa002abc@github.com/chidamla/addition.git
+		</connection>
+		<url>https://github.com/chidamla/addition</url>
+		<tag>maths-1.0</tag>
+	</scm>
+	
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>
