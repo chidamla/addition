@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pesil.main</groupId>
 	<artifactId>addition</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.2</version>
 	<packaging>war</packaging>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -15,7 +15,7 @@
 			scm:git:https://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@github.com/chidamla/addition.git
 		</connection>
 		<url>https://github.com/chidamla/addition</url>
-		<tag>addition-1.1</tag>
+		<tag>addition-1.2</tag>
 	</scm>
 	<dependencies>
 		<dependency>
