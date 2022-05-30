@@ -14,6 +14,9 @@
 		<connection>
 			scm:git:git@github.com/chidamla/addition.git
 		</connection>
+		<developerConnection>
+			scm:git:git@github.com/chidamla/addition.git
+		</developerConnection>
 		<url>https://github.com/chidamla/addition</url>
 		<tag>addition-1.3</tag>
 	</scm>
