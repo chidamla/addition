@@ -22,3 +22,5 @@ package-lock.json
 .factorypath
 *.exe
 *.bak
+*releaseBackup
+release.properties
